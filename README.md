@@ -1,25 +1,47 @@
-<h1 align = "center">Merlin Fashion🛒</h1>
+# Sania Trendy Finds
 
+Welcome to **Sania Trendy Finds**, an online fashion website offering a wide selection of trendy clothing and accessories. This project is developed with a focus on user-friendly design, responsive layouts, and smooth functionality.
 
-<p align="center">Refresh Your Wardrobe!🛍️ 
- <p align="center">
-With a passion for fashion here's my very own custom website relating to it.💃
- </p>
- 
- 
- <p align="center">
- The template is for the Online Clothing Fashion which includes trending wardrobe collection. The website is made from scratch 🥳 and doesn't include any readymade code.
-Merlin Fashion doesn't include anything related to database, it is just a HTML, CSS and JS template. Though you can find some familiar images used in the website taken from various sources, but the purpose is to only make it more beautiful.🖤
+## Table of Contents
+- [Project Description](#project-description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation and Setup](#installation-and-setup)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+- [License](#license)
 
- </p>
+## Project Description
 
-  <p align="center">
-    And that's how it looks🤩
- </p>
- <p align="center">
- <img src="https://user-images.githubusercontent.com/47295558/76738138-11372680-6790-11ea-82c6-c27a9c2b7b68.gif">
-  </p>
- <p align="center">
- Saw all the other pages?🧐 Go check it out now!🥳 
-   https://singh-shivani.github.io/Merlin-Fashion/
-</p>
+**Sania Trendy Finds** is an e-commerce platform that allows users to explore and purchase fashion items like clothing, shoes, and accessories. The goal of this project is to provide a smooth shopping experience with a focus on ease of navigation and mobile-friendly design.
+
+## Features
+- **Homepage**: Displays featured products and new arrivals.
+- **Categories Page**: Organized product listings by category (e.g., Men, Women, Accessories).
+- **Product Details**: Individual product pages with detailed descriptions.
+- **Contact Page**: A contact form for customer inquiries.
+- **Login/Signup Pages**: Secure authentication for user accounts.
+- **Responsive Design**: Mobile-first design ensures a smooth experience on all devices.
+- **Interactive JavaScript Features**: Functional navigation bar, product filtering, and more.
+
+## Technologies Used
+
+- **Frontend**: 
+  - HTML5 for structuring content
+  - CSS3 (including Flexbox and Grid) for layout and styling
+  - JavaScript for interactive elements like product filtering and navigation
+
+- **Development Tools**:
+  - Visual Studio Code for coding
+  - Git for version control
+
+## Installation and Setup
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/SaniaProfile/Sania_Trendy_Finds.git
